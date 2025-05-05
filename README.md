@@ -39,7 +39,7 @@ I'm a **frontend developer** passionate about crafting seamless user experiences
 
 ### 🧠 Currently Learning
 
-- Advanced **Vue.js**
+- Advanced **Angular**
 - UI/UX best practices
 - Scalable frontend architecture
 
