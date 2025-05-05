@@ -32,7 +32,7 @@ I'm a **frontend developer** passionate about crafting seamless user experiences
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaulaSelim&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PaulaSelim&theme=dracula" alt="GitHub Activity Graph">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaulaSelim&theme=tokyonight" />
 </p>
 
 ---
